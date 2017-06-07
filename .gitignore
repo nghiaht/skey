@@ -1,4 +1,4 @@
-node_modules
-app/
-.tmp
-app.yaml
+scripts/*.js.map
+*
+*/
+!.gitignore
