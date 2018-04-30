@@ -1,0 +1,1 @@
+webpackJsonp([0x9427c64ab85d],{242:function(e,t,n){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=n(4),a=u(l),d=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Đi đâu loanh quanh cho đời mỏi mệt"),a.default.createElement("p",null,"Không tìm thấy đường dẫn này"))};t.default=d,e.exports=t.default}});
