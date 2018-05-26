@@ -1,0 +1,1 @@
+webpackJsonp([60335399758886],{153:function(t,i){t.exports={data:{site:{siteMetadata:{title:"Bộ gõ Tiếng Việt S-Key 2018 - Tác giả: Huỳnh Trọng Nghĩa - Tích hợp phương pháp ghi gọn chữ Việt"}}},layoutContext:{}}}});
