@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://s-key.sourceforge.io/"
+redirect_to: "https://chuvietnhanhkey.sourceforge.io/"
 ---
